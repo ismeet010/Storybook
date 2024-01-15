@@ -1,0 +1,19 @@
+.button{
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.primary{
+    background-color: skyblue;
+}
+.secondary{
+    background-color: lightgrey;
+    color: black;
+}
+.success{
+    background-color: green;
+}
+.danger{
+    background-color: red;
+}
